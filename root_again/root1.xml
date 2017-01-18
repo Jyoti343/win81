@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="methods" thread-count="13">
+  <test name="Test">
+  <parameter name="tra" value="Romi Rain" />
+<!--   <groups>
+  <define name="pv1">
+    <include name="bra" />
+  </define>
+  <define name="rain1">
+    <include name="bra" />
+  </define>
+     <run>
+       <include name="pv1"/>
+       <include name="rain1" />
+     </run>
+  </groups> -->
+    <classes>
+      <class name="root_again.Brow1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+
