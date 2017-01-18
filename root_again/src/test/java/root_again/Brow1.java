@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 public class Brow1 {
 	WebDriver driver=null;
-	  /*  @Test(groups={"rain"})
+	   @Test(groups={"rain"})
 	    public void befo(){
 	    	  driver=new FirefoxDriver();
 	    	  driver.get("http://myntra.com");
@@ -21,7 +21,7 @@ public class Brow1 {
 			driver=new FirefoxDriver();
 			driver.get("http://wikipedia.com");
 			System.out.println(driver.getTitle());
-		}*/
+		}
 	       @Test(groups={"pv"})
 	       public void stuckIn(){
 	    	   System.out.println("your p just stuck in my vagina just because of inconveneance entry");
