@@ -15,7 +15,9 @@
      </run>
   </groups> -->
     <classes>
-      <class name="root_again.Brow1"/>
+    <!--   <class name="root_again.Brow1"/>
+      <class name="webDriver_.Factory_1"/> -->
+      <class name="com.testng.DataProvider_1"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
